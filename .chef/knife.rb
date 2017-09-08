@@ -1,0 +1,6 @@
+node_name                'priyatam'
+client_key               '/root/chef-repo/.chef/priyatam.pem'
+validation_client_name   '505r-validator'
+validation_key           '/root/chef-repo/.chef/505r-validator.pem'
+chef_server_url          'https://TRNCLILNXPRKOM01.jnittraining.com/organizations/505r'
+syntax_check_cache_path  '/root/chef-repo/.chef/syntax_check_cache'
